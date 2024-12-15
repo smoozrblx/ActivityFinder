@@ -45,17 +45,14 @@ Once the results are returned from the server, the frontend displays them in an 
 - Uses the TF-IDF technique to filter and rank results based on relevance.
 - Caches and reuses the TF-IDF data for faster subsequent queries.
 
-## Setup & Installation
-
-To get started with this project locally, follow these steps:
-
-### Prerequisites
-- Node.js (version 16.x or higher)
-- npm (Node Package Manager)
-
 ## Demo
 
-You may find a demo of the website at [to-come]
+You may find a demo of the website [deployed on Vercel here.](https://activity-finder-self.vercel.app/)
+
+Some example inputs to try:
+`surf plage`
+`parc`
+`activités de sport`
 
 ## Contributing
 
