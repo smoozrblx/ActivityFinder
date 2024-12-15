@@ -1,0 +1,134 @@
+[
+    {
+      "name": "Le Parc Zoologique de Lunaret",
+      "description": "Le parc zoologique de Lunaret est un lieu incontournable pour les amoureux des animaux et de la nature. Situé à proximité du centre-ville, il abrite une grande diversité d'animaux du monde entier, notamment des espèces menacées. C’est une excellente destination pour les familles, avec des parcours éducatifs, des espaces de jeux pour enfants et des promenades en pleine nature.",
+      "price": {
+        "free": true,
+        "range": { "min": null, "max": null },
+        "currency": null
+      },
+      "location": "Route de Mende, 34000 Montpellier, France",
+      "image": "https://example.com/zoo_lunaret.jpg"
+    },
+    {
+      "name": "Le Musée Fabre",
+      "description": "Le Musée Fabre est l'un des plus grands musées d'art de Montpellier. Il abrite une collection exceptionnelle de peintures, sculptures et objets d'art. Les visiteurs peuvent y découvrir des œuvres de maîtres européens, du XVIIe au XIXe siècle, ainsi que des expositions temporaires. C’est un lieu idéal pour les passionnés d'art et d’histoire.",
+      "price": {
+        "free": false,
+        "range": { "min": 8, "max": 15 },
+        "currency": "EUR"
+      },
+      "location": "13 Rue du Musée, 34000 Montpellier, France",
+      "image": "https://example.com/musee_fabre.jpg"
+    },
+    {
+      "name": "Escape Game: The Time Machine",
+      "description": "Venez tenter l’aventure dans l'escape game 'The Time Machine'. Vous serez transporté dans une machine à voyager dans le temps et devrez résoudre des énigmes pour éviter un désastre temporel. Une expérience immersive avec des éléments interactifs et des scénarios captivants qui plairont aux amateurs de défis intellectuels et de jeux d’aventure.",
+      "price": {
+        "free": false,
+        "range": { "min": 20, "max": 40 },
+        "currency": "EUR"
+      },
+      "location": "17 Rue de la Loge, 34000 Montpellier, France",
+      "image": "https://example.com/time_machine_escape.jpg"
+    },
+    {
+      "name": "Le Petit Train de Montpellier",
+      "description": "Le Petit Train de Montpellier est une manière ludique de découvrir la ville et ses principaux monuments. Ce train touristique vous emmène à travers les quartiers historiques et modernes de la ville avec des commentaires détaillés sur les points d’intérêt. Une option idéale pour ceux qui souhaitent découvrir la ville d'une manière relaxante et agréable.",
+      "price": {
+        "free": false,
+        "range": { "min": 5, "max": 10 },
+        "currency": "EUR"
+      },
+      "location": "Place de la Comédie, 34000 Montpellier, France",
+      "image": "https://example.com/petit_train_montpellier.jpg"
+    },
+    {
+      "name": "Le Sucre de Montpellier",
+      "description": "Le Sucre de Montpellier est une chocolaterie artisanale qui propose une variété de créations sucrées, allant des chocolats fins aux pâtisseries maison. C'est un endroit parfait pour les gourmands et ceux qui cherchent des cadeaux sucrés à offrir. Vous pourrez découvrir des saveurs uniques et profiter d'une expérience sensorielle autour du chocolat.",
+      "price": {
+        "free": false,
+        "range": { "min": 5, "max": 15 },
+        "currency": "EUR"
+      },
+      "location": "11 Rue des Boules, 34000 Montpellier, France",
+      "image": "https://example.com/sucre_montpellier.jpg"
+    },
+    {
+      "name": "Laser Game Montpellier",
+      "description": "Venez participer à un match de Laser Game dans une arène à la fois ludique et stratégique. Parfait pour les groupes d'amis ou les événements d'entreprise, vous devrez vous coordonner et faire preuve de rapidité pour marquer des points en éliminant vos adversaires avec des pistolets laser. Une expérience dynamique et amusante pour les amateurs de jeux d’équipe.",
+      "price": {
+        "free": false,
+        "range": { "min": 10, "max": 25 },
+        "currency": "EUR"
+      },
+      "location": "15 Rue des Artisans, 34000 Montpellier, France",
+      "image": "https://example.com/laser_game.jpg"
+    },
+    {
+      "name": "La Comédie du Livre",
+      "description": "La Comédie du Livre est un événement littéraire incontournable à Montpellier. Chaque année, la ville accueille des écrivains, des éditeurs et des passionnés de littérature pour un week-end de dédicaces, de conférences et de rencontres littéraires. Cet événement est idéal pour les amoureux des livres et ceux qui souhaitent rencontrer des auteurs et découvrir de nouveaux livres.",
+      "price": {
+        "free": true,
+        "range": { "min": null, "max": null },
+        "currency": null
+      },
+      "location": "Place de la Comédie, 34000 Montpellier, France",
+      "image": "https://example.com/comedie_livre.jpg"
+    },
+    {
+      "name": "Bateau promenade sur le Lez",
+      "description": "Le Lez, ce fleuve traversant Montpellier, offre une belle occasion de prendre le temps de découvrir la ville sous un autre angle. Louez un bateau ou réservez une croisière pour une promenade paisible le long du fleuve, tout en admirant la beauté des paysages et des bâtiments environnants. C’est une expérience idéale pour les couples ou les familles.",
+      "price": {
+        "free": false,
+        "range": { "min": 15, "max": 25 },
+        "currency": "EUR"
+      },
+      "location": "Port Marianne, 34000 Montpellier, France",
+      "image": "https://example.com/bateau_promenade.jpg"
+    },
+    {
+      "name": "Les Nuits Carrées",
+      "description": "Le festival Les Nuits Carrées est un événement musical en plein air qui se déroule chaque été à Montpellier. Il réunit des artistes locaux et internationaux dans un cadre idyllique, avec des concerts live, des DJ sets et des animations en tout genre. C'est un événement à ne pas manquer si vous êtes passionné par la musique, les festivals et l'ambiance estivale.",
+      "price": {
+        "free": false,
+        "range": { "min": 15, "max": 40 },
+        "currency": "EUR"
+      },
+      "location": "Plage des Aresquiers, 34000 Montpellier, France",
+      "image": "https://example.com/nuits_carrees.jpg"
+    },
+    {
+      "name": "Patinoire de Montpellier",
+      "description": "Située à quelques minutes du centre-ville, la patinoire de Montpellier est l’endroit parfait pour une activité sportive ou un moment de détente en famille ou entre amis. Avec une grande piste de glace, vous pouvez y passer des heures à patiner ou à assister à des spectacles sur glace.",
+      "price": {
+        "free": false,
+        "range": { "min": 5, "max": 12 },
+        "currency": "EUR"
+      },
+      "location": "8 Rue François Dufay, 34000 Montpellier, France",
+      "image": "https://example.com/patinoire_montpellier.jpg"
+    },
+    {
+      "name": "Le Théâtre Comédie-Française",
+      "description": "Le Théâtre Comédie-Française est l’un des théâtres les plus prestigieux de Montpellier. Ce lieu historique offre une programmation variée, allant des pièces classiques aux créations contemporaines. Chaque représentation est l'occasion de découvrir des productions exceptionnelles dans un cadre intime et raffiné.",
+      "price": {
+        "free": false,
+        "range": { "min": 12, "max": 45 },
+        "currency": "EUR"
+      },
+      "location": "Place de la Comédie, 34000 Montpellier, France",
+      "image": "https://example.com/theatre_comedie_francaise.jpg"
+    },
+    {
+      "name": "Le Dancehall Montpellier",
+      "description": "Le Dancehall Montpellier est un club animé où vous pourrez vous déhancher toute la nuit sur les sons des meilleurs DJs. Le club propose des soirées à thèmes, des concerts live, et une atmosphère festive idéale pour les amoureux de la danse et de la musique. Si vous aimez le reggae, le dancehall et les vibes tropicales, c'est l'endroit où vous devez être.",
+      "price": {
+        "free": false,
+        "range": { "min": 5, "max": 15 },
+        "currency": "EUR"
+      },
+      "location": "1 Rue de la République, 34000 Montpellier, France",
+      "image": "https://example.com/dancehall_montpellier.jpg"
+    }
+  ]  

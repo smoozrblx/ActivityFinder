@@ -1,0 +1,183 @@
+[
+    {
+      "name": "Parc BMX",
+      "description": "Un parc pour les passionnés de BMX et de skate avec des rampes et des parcours.",
+      "price": {
+        "free": false,
+        "range": { "min": 5, "max": 15 },
+        "currency": "EUR"
+      },
+      "location": "6 Rue du Parc des Sports, 34000 Montpellier"
+    },
+    {
+      "name": "Le Bazar Café",
+      "description": "Un café tendance offrant une variété de cafés, de pâtisseries et de musique live.",
+      "price": {
+        "free": false,
+        "range": { "min": 3, "max": 15 },
+        "currency": "EUR"
+      },
+      "location": "12 Rue du Bazar, 34000 Montpellier"
+    },
+    {
+      "name": "Académie de Tennis Montpellier",
+      "description": "Prenez des cours de tennis dans l'une des meilleures académies de la région.",
+      "price": {
+        "free": false,
+        "range": { "min": 20, "max": 50 },
+        "currency": "EUR"
+      },
+      "location": "23 Rue des Tennis, 34000 Montpellier"
+    },
+    {
+      "name": "Plage de l’Espiguette",
+      "description": "Une belle plage pour se baigner, bronzer et pratiquer des sports nautiques.",
+      "price": {
+        "free": true,
+        "range": { "min": 0, "max": 0 },
+        "currency": "EUR"
+      },
+      "location": "Plage de l’Espiguette, 34200 Le Grau-du-Roi"
+    },
+    {
+      "name": "Performance de ballet à l'Opéra Comédie",
+      "description": "Profitez d'une performance gracieuse de ballet à l'Opéra Comédie historique.",
+      "price": {
+        "free": false,
+        "range": { "min": 15, "max": 40 },
+        "currency": "EUR"
+      },
+      "location": "Place de la Comédie, 34000 Montpellier"
+    },
+    {
+      "name": "Aquarium Mare Nostrum",
+      "description": "Découvrez la vie marine et des poissons exotiques dans ce grand aquarium.",
+      "price": {
+        "free": false,
+        "range": { "min": 8, "max": 18 },
+        "currency": "EUR"
+      },
+      "location": "99 Avenue Agropolis, 34000 Montpellier"
+    },
+    {
+      "name": "Paintball Montpellier",
+      "description": "Profitez d'un jeu de paintball excitant dans une grande arène extérieure.",
+      "price": {
+        "free": false,
+        "range": { "min": 20, "max": 40 },
+        "currency": "EUR"
+      },
+      "location": "Route de Mende, 34000 Montpellier"
+    },
+    {
+      "name": "Soirée Karaoke au Zinc",
+      "description": "Rejoignez une soirée karaoke animée au bar Le Zinc avec une large sélection de chansons.",
+      "price": {
+        "free": false,
+        "range": { "min": 5, "max": 15 },
+        "currency": "EUR"
+      },
+      "location": "10 Rue de la Canourgue, 34000 Montpellier"
+    },
+    {
+      "name": "Escalade en salle chez Altissimo",
+      "description": "Essayez l'escalade en salle avec des parcours pour tous les niveaux.",
+      "price": {
+        "free": false,
+        "range": { "min": 10, "max": 20 },
+        "currency": "EUR"
+      },
+      "location": "16 Rue des Artisans, 34000 Montpellier"
+    },
+    {
+      "name": "Football au Parc de Coussergues",
+      "description": "Profitez d'un match de football décontracté entre amis dans ce parc public.",
+      "price": {
+        "free": true,
+        "range": { "min": 0, "max": 0 },
+        "currency": "EUR"
+      },
+      "location": "Parc de Coussergues, 34000 Montpellier"
+    },
+    {
+      "name": "Visite de galeries d'art",
+      "description": "Participez à une visite guidée des galeries d'art contemporaines de la ville.",
+      "price": {
+        "free": false,
+        "range": { "min": 10, "max": 20 },
+        "currency": "EUR"
+      },
+      "location": "Différentes galeries à Montpellier, 34000 Montpellier"
+    },
+    {
+      "name": "Cinéma Le Diagonal",
+      "description": "Regardez les derniers films au cinéma indépendant Le Diagonal.",
+      "price": {
+        "free": false,
+        "range": { "min": 8, "max": 12 },
+        "currency": "EUR"
+      },
+      "location": "1 Rue de la Galérie, 34000 Montpellier"
+    },
+    {
+      "name": "Musique live au Rockstore",
+      "description": "Profitez de performances live de groupes locaux et internationaux.",
+      "price": {
+        "free": false,
+        "range": { "min": 10, "max": 25 },
+        "currency": "EUR"
+      },
+      "location": "20 Rue de la République, 34000 Montpellier"
+    },
+    {
+      "name": "Bowling Montpellier",
+      "description": "Une piste de bowling offrant des moments de fun pour tous les âges, avec restauration.",
+      "price": {
+        "free": false,
+        "range": { "min": 10, "max": 20 },
+        "currency": "EUR"
+      },
+      "location": "15 Boulevard des Arceaux, 34000 Montpellier"
+    },
+    {
+      "name": "Peinture et vin",
+      "description": "Participez à un événement peinture et vin où vous pouvez créer des œuvres d'art tout en dégustant du vin.",
+      "price": {
+        "free": false,
+        "range": { "min": 25, "max": 40 },
+        "currency": "EUR"
+      },
+      "location": "29 Rue de la Culture, 34000 Montpellier"
+    },
+    {
+      "name": "Café des Beaux-Arts",
+      "description": "Un café avec une ambiance chaleureuse offrant de délicieux cafés et pâtisseries.",
+      "price": {
+        "free": false,
+        "range": { "min": 3, "max": 12 },
+        "currency": "EUR"
+      },
+      "location": "8 Rue des Beaux-Arts, 34000 Montpellier"
+    },
+    {
+      "name": "Randonnée au Pic Saint-Loup",
+      "description": "Une randonnée pittoresque offrant une vue imprenable sur la région depuis le sommet.",
+      "price": {
+        "free": true,
+        "range": { "min": 0, "max": 0 },
+        "currency": "EUR"
+      },
+      "location": "Pic Saint-Loup, 34000 Montpellier"
+    },
+    {
+      "name": "Bar Rooftop Le 360",
+      "description": "Détendez-vous avec des cocktails et une vue panoramique de la ville dans ce bar sur le toit.",
+      "price": {
+        "free": false,
+        "range": { "min": 10, "max": 25 },
+        "currency": "EUR"
+      },
+      "location": "Place du 8 Mai 1945, 34000 Montpellier"
+    }
+  ]
+  

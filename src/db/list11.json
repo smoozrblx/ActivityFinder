@@ -1,0 +1,233 @@
+[
+    {
+      "name": "Parc des Expositions",
+      "description": "Assistez à des salons, des foires et des événements divers au Parc des Expositions de Montpellier.",
+      "price": {
+        "free": false,
+        "range": { "min": 5, "max": 20 },
+        "currency": "EUR"
+      },
+      "location": "Parc des Expositions, 34000 Montpellier"
+    },
+    {
+      "name": "Salle de billard Le Club",
+      "description": "Profitez d'une partie de billard dans cette salle moderne.",
+      "price": {
+        "free": false,
+        "range": { "min": 5, "max": 15 },
+        "currency": "EUR"
+      },
+      "location": "5 Rue des Pêchers, 34000 Montpellier"
+    },
+    {
+      "name": "Escalade en extérieur à Saint-Guilhem-le-Désert",
+      "description": "Pour les amoureux de la nature et de l'escalade, découvrez ce magnifique spot en extérieur.",
+      "price": {
+        "free": false,
+        "range": { "min": 20, "max": 50 },
+        "currency": "EUR"
+      },
+      "location": "Saint-Guilhem-le-Désert, 34150"
+    },
+    {
+      "name": "Yoga au Parc Rimbaud",
+      "description": "Participez à une séance de yoga en plein air, dans le parc verdoyant de Montpellier.",
+      "price": {
+        "free": false,
+        "range": { "min": 10, "max": 20 },
+        "currency": "EUR"
+      },
+      "location": "Parc Rimbaud, 34000 Montpellier"
+    },
+    {
+      "name": "Cours de danse salsa",
+      "description": "Venez apprendre la salsa avec des professionnels dans une ambiance conviviale.",
+      "price": {
+        "free": false,
+        "range": { "min": 15, "max": 30 },
+        "currency": "EUR"
+      },
+      "location": "13 Rue de la Danse, 34000 Montpellier"
+    },
+    {
+      "name": "Surf à la plage de Palavas",
+      "description": "Prenez votre planche et venez surfer sur les vagues de la plage de Palavas.",
+      "price": {
+        "free": false,
+        "range": { "min": 20, "max": 50 },
+        "currency": "EUR"
+      },
+      "location": "Plage de Palavas, 34250 Palavas-les-Flots"
+    },
+    {
+      "name": "Balade en Segway",
+      "description": "Explorez Montpellier de manière originale en faisant une balade en Segway.",
+      "price": {
+        "free": false,
+        "range": { "min": 25, "max": 45 },
+        "currency": "EUR"
+      },
+      "location": "Place de la Comédie, 34000 Montpellier"
+    },
+    {
+      "name": "Tennis au Tennis Club de Montpellier",
+      "description": "Jouez au tennis dans un cadre agréable au Tennis Club de Montpellier.",
+      "price": {
+        "free": false,
+        "range": { "min": 15, "max": 40 },
+        "currency": "EUR"
+      },
+      "location": "24 Rue du Tennis, 34000 Montpellier"
+    },
+    {
+      "name": "Bowling Le Strike",
+      "description": "Profitez d'une soirée bowling entre amis au Strike, un centre moderne et dynamique.",
+      "price": {
+        "free": false,
+        "range": { "min": 10, "max": 25 },
+        "currency": "EUR"
+      },
+      "location": "4 Boulevard du Mont-Royal, 34000 Montpellier"
+    },
+    {
+      "name": "Festival de musique Les Nuits de l'Ardèche",
+      "description": "Un festival annuel de musique avec des concerts en plein air et des DJ sets.",
+      "price": {
+        "free": false,
+        "range": { "min": 10, "max": 50 },
+        "currency": "EUR"
+      },
+      "location": "Le Vieux Village, 34000 Montpellier"
+    },
+    {
+      "name": "Salle de jeux Laser Quest",
+      "description": "Lancez-vous dans des aventures palpitantes de laser tag avec vos amis ou en famille.",
+      "price": {
+        "free": false,
+        "range": { "min": 10, "max": 20 },
+        "currency": "EUR"
+      },
+      "location": "15 Rue des Loisirs, 34000 Montpellier"
+    },
+    {
+      "name": "Atelier de cuisine provençale",
+      "description": "Apprenez à cuisiner des plats typiques de la région Provence avec des chefs locaux.",
+      "price": {
+        "free": false,
+        "range": { "min": 40, "max": 70 },
+        "currency": "EUR"
+      },
+      "location": "8 Rue des Saveurs, 34000 Montpellier"
+    },
+    {
+      "name": "Jeux d'arcade à Game Over",
+      "description": "Revivez les années 80 avec une gamme de jeux d'arcade rétro dans cet espace animé.",
+      "price": {
+        "free": false,
+        "range": { "min": 2, "max": 5 },
+        "currency": "EUR"
+      },
+      "location": "Place de la Liberté, 34000 Montpellier"
+    },
+    {
+      "name": "Patinoire Ice Park",
+      "description": "Glissez sur la glace dans une ambiance festive et conviviale au Ice Park de Montpellier.",
+      "price": {
+        "free": false,
+        "range": { "min": 8, "max": 15 },
+        "currency": "EUR"
+      },
+      "location": "8 Rue François Dufay, 34000 Montpellier"
+    },
+    {
+      "name": "Golf de Fontcaude",
+      "description": "Jouez au golf sur un terrain verdoyant et calme avec des vues exceptionnelles.",
+      "price": {
+        "free": false,
+        "range": { "min": 25, "max": 60 },
+        "currency": "EUR"
+      },
+      "location": "Route de Fontcaude, 34000 Montpellier"
+    },
+    {
+      "name": "Plongée sous-marine à Palavas",
+      "description": "Découvrez les fonds marins méditerranéens en plongeant près de Palavas.",
+      "price": {
+        "free": false,
+        "range": { "min": 30, "max": 100 },
+        "currency": "EUR"
+      },
+      "location": "Plage de Palavas, 34250 Palavas-les-Flots"
+    },
+    {
+      "name": "Zumba à la Maison pour Tous",
+      "description": "Participez à des séances de Zumba énergisantes dans un cadre dynamique.",
+      "price": {
+        "free": false,
+        "range": { "min": 10, "max": 15 },
+        "currency": "EUR"
+      },
+      "location": "18 Rue du Travail, 34000 Montpellier"
+    },
+    {
+      "name": "Pétanque au parc du Peyrou",
+      "description": "Jouez à la pétanque dans l'un des plus beaux parcs de Montpellier.",
+      "price": {
+        "free": true,
+        "range": { "min": 0, "max": 0 },
+        "currency": "EUR"
+      },
+      "location": "Parc du Peyrou, 34000 Montpellier"
+    },
+    {
+      "name": "Club de Jazz Le 16",
+      "description": "Profitez de performances de jazz live au club de jazz intime Le 16.",
+      "price": {
+        "free": false,
+        "range": { "min": 10, "max": 25 },
+        "currency": "EUR"
+      },
+      "location": "16 Rue de la Musique, 34000 Montpellier"
+    },
+    {
+      "name": "Karting indoor à Montpellier",
+      "description": "Ressentez l'adrénaline avec des courses de karting en intérieur dans ce centre spécialisé.",
+      "price": {
+        "free": false,
+        "range": { "min": 15, "max": 35 },
+        "currency": "EUR"
+      },
+      "location": "27 Rue de l'Industrie, 34000 Montpellier"
+    },
+    {
+      "name": "Course d'orientation au Parc de la Guirlande",
+      "description": "Participez à une course d'orientation en famille ou entre amis dans un cadre naturel.",
+      "price": {
+        "free": true,
+        "range": { "min": 0, "max": 0 },
+        "currency": "EUR"
+      },
+      "location": "Parc de la Guirlande, 34000 Montpellier"
+    },
+    {
+      "name": "Salle de théâtre Le Comédie",
+      "description": "Assistez à des pièces de théâtre classiques et modernes dans une salle d'exception.",
+      "price": {
+        "free": false,
+        "range": { "min": 10, "max": 30 },
+        "currency": "EUR"
+      },
+      "location": "11 Rue de la Comédie, 34000 Montpellier"
+    },
+    {
+      "name": "Escape Game: La Chambre des Secrets",
+      "description": "Un jeu d'énigmes captivant où vous devez résoudre des mystères dans un temps limité.",
+      "price": {
+        "free": false,
+        "range": { "min": 20, "max": 40 },
+        "currency": "EUR"
+      },
+      "location": "18 Rue du Jeu, 34000 Montpellier"
+    }
+  ]
+  

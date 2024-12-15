@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Exploration des Jardins du Peyrou", 
+    "description": "Les Jardins du Peyrou représentent l'un des espaces verts les plus emblématiques de Montpellier. Ce parc historique offre des vues imprenables sur la ville et ses alentours grâce à son emplacement surélevé. Vous pouvez y admirer l’Aqueduc Saint-Clément, un vestige spectaculaire du passé, et la statue du roi Louis XIV en son centre. En été, des marchés artisanaux et des concerts en plein air viennent enrichir votre visite. Lieu parfait pour une promenade ou un pique-nique dans un cadre historique.",
+    "price": {
+      "free": true,
+      "range": { "min": 0, "max": 0 },
+      "currency": "EUR"
+    },
+    "location": "Boulevard des Arceaux, 34000 Montpellier, France",
+    "hours": [["Lundi", "8h00", "20h00"], ["Mardi", "8h00", "20h00"], ["Mercredi", "8h00", "20h00"], ["Jeudi", "8h00", "20h00"], ["Vendredi", "8h00", "20h00"], ["Samedi", "8h00", "20h00"], ["Dimanche", "8h00", "20h00"]]
+  },
+  {
+    "name": "Plongée sous-marine à Carnon", 
+    "description": "Carnon, situé à une quinzaine de minutes de Montpellier, est un endroit parfait pour les amateurs de plongée sous-marine. Explorez les fonds marins de la Méditerranée et découvrez une vie aquatique riche et variée. Les clubs locaux offrent des initiations pour les débutants ainsi que des plongées plus techniques pour les plongeurs confirmés. Le personnel, hautement qualifié, vous guide avec sécurité à travers des eaux limpides. Une expérience inoubliable pour les amoureux de l’océan.",
+    "price": {
+      "free": false,
+      "range": { "min": 50, "max": 150 },
+      "currency": "EUR"
+    },
+    "location": "Port de Carnon, 34280 Mauguio, France",
+    "hours": [["Lundi", "9h00", "18h00"], ["Mardi", "9h00", "18h00"], ["Mercredi", "9h00", "18h00"], ["Jeudi", "9h00", "18h00"], ["Vendredi", "9h00", "18h00"], ["Samedi", "9h00", "18h00"], ["Dimanche", "9h00", "18h00"]]
+  },
+  {
+    "name": "Atelier de poterie créative", 
+    "description": "Participez à un atelier de poterie et laissez libre cours à votre créativité dans un cadre artistique et relaxant. Que vous soyez débutant ou expert, les instructeurs vous guideront dans la création de vos propres pièces uniques, comme des bols, des tasses ou des sculptures abstraites. Tout le matériel est fourni, et vous repartirez avec vos créations. Une activité parfaite pour les amateurs d'art ou ceux qui cherchent une nouvelle expérience sensorielle.",
+    "price": {
+      "free": false,
+      "range": { "min": 30, "max": 50 },
+      "currency": "EUR"
+    },
+    "location": "27 Rue de l’Aiguillerie, 34000 Montpellier, France",
+    "hours": [["Lundi", "10h00", "19h00"], ["Mardi", "10h00", "19h00"], ["Mercredi", "10h00", "19h00"], ["Jeudi", "10h00", "19h00"], ["Vendredi", "10h00", "19h00"], ["Samedi", "10h00", "19h00"], ["Dimanche", "Fermé"]]
+  },
+  {
+    "name": "Parc zoologique de Lunaret", 
+    "description": "Le parc zoologique de Lunaret est un vaste espace naturel abritant plus de 1200 animaux de 140 espèces différentes. Ce parc gratuit est idéal pour une sortie en famille. Vous y verrez des girafes, des zèbres, des lémuriens et bien d'autres dans un cadre semi-naturel. Le parc dispose également d'une serre amazonienne impressionnante (payante) qui vous transporte dans un environnement tropical luxuriant. Des aires de pique-nique sont à disposition pour une journée agréable au cœur de la nature.",
+    "price": {
+      "free": true,
+      "range": { "min": 0, "max": 10 },
+      "currency": "EUR"
+    },
+    "location": "50 Avenue Agropolis, 34090 Montpellier, France",
+    "hours": [["Lundi", "9h00", "18h00"], ["Mardi", "9h00", "18h00"], ["Mercredi", "9h00", "18h00"], ["Jeudi", "9h00", "18h00"], ["Vendredi", "9h00", "18h00"], ["Samedi", "9h00", "18h00"], ["Dimanche", "9h00", "18h00"]]
+  },
+  {
+    "name": "Excursion en kayak sur le fleuve Hérault", 
+    "description": "Partez à l’aventure en kayak sur le fleuve Hérault, à une courte distance de Montpellier. Cette activité permet de combiner sport, découverte de paysages magnifiques et moments de détente. Naviguez à travers des gorges impressionnantes et profitez de pauses baignades dans des eaux cristallines. Les différents circuits proposent des difficultés adaptées aux familles comme aux sportifs chevronnés. Une journée inoubliable en pleine nature.",
+    "price": {
+      "free": false,
+      "range": { "min": 25, "max": 50 },
+      "currency": "EUR"
+    },
+    "location": "Base de Canoë-Kayak Saint-Guilhem, 34150 Saint-Guilhem-le-Désert, France",
+    "hours": [["Lundi", "9h00", "18h00"], ["Mardi", "9h00", "18h00"], ["Mercredi", "9h00", "18h00"], ["Jeudi", "9h00", "18h00"], ["Vendredi", "9h00", "18h00"], ["Samedi", "9h00", "18h00"], ["Dimanche", "9h00", "18h00"]]
+  }
+]

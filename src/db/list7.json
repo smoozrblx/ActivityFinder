@@ -1,0 +1,179 @@
+[
+    {
+      "name": "Surf à Palavas-les-Flots",
+      "description": "Profitez des vagues en pratiquant le surf sur les plages proches de Montpellier, à Palavas-les-Flots.",
+      "price": {
+        "free": false,
+        "range": { "min": 40, "max": 50 },
+        "currency": "EUR"
+      },
+      "location": "Plage de Palavas-les-Flots, Palavas-les-Flots, 34250",
+      "image": "https://example.com/surf.jpg"
+    },
+    {
+      "name": "Jetski à la Grande Motte",
+      "description": "Ressentez l'adrénaline avec des balades en jetski à la Grande Motte, à quelques kilomètres de Montpellier.",
+      "price": {
+        "free": false,
+        "range": { "min": 70, "max": 90 },
+        "currency": "EUR"
+      },
+      "location": "Port de la Grande Motte, 34280",
+      "image": "https://example.com/jetski.jpg"
+    },
+    {
+      "name": "Parapente à Saint-Mathieu-de-Tréviers",
+      "description": "Survolez les collines et les paysages méditerranéens en parapente, à seulement 30 minutes de Montpellier.",
+      "price": {
+        "free": false,
+        "range": { "min": 120, "max": 150 },
+        "currency": "EUR"
+      },
+      "location": "Saint-Mathieu-de-Tréviers, 34270",
+      "image": "https://example.com/parapente.jpg"
+    },
+    {
+      "name": "Plongée sous-marine à Sète",
+      "description": "Explorez les fonds marins de la Méditerranée avec des sessions de plongée autour de Sète.",
+      "price": {
+        "free": false,
+        "range": { "min": 50, "max": 70 },
+        "currency": "EUR"
+      },
+      "location": "Port de Sète, 34200",
+      "image": "https://example.com/plongee.jpg"
+    },
+    {
+      "name": "Karting à Montpellier",
+      "description": "Vitesse et adrénaline au circuit de karting de Montpellier pour tous les niveaux.",
+      "price": {
+        "free": false,
+        "range": { "min": 25, "max": 40 },
+        "currency": "EUR"
+      },
+      "location": "Circuit de karting de Montpellier, 34000",
+      "image": "https://example.com/karting.jpg"
+    },
+    {
+      "name": "Visite du Musée Fabre",
+      "description": "Plongez dans l'art classique et moderne à travers les nombreuses expositions du Musée Fabre.",
+      "price": {
+        "free": false,
+        "range": { "min": 6, "max": 8 },
+        "currency": "EUR"
+      },
+      "location": "39 Boulevard Bonne Nouvelle, 34000 Montpellier",
+      "image": "https://example.com/musee_fabre.jpg"
+    },
+    {
+      "name": "Café au Jardin des Plantes",
+      "description": "Détendez-vous dans ce cadre magnifique et bucolique tout en dégustant un café au Jardin des Plantes.",
+      "price": {
+        "free": false,
+        "range": { "min": 5, "max": 10 },
+        "currency": "EUR"
+      },
+      "location": "Jardin des Plantes, 34090 Montpellier",
+      "image": "https://example.com/jardin_plantes.jpg"
+    },
+    {
+      "name": "Visite du Château de la Mogère",
+      "description": "Ce château du XVIIIe siècle est un véritable joyau architectural et un cadre parfait pour découvrir l'histoire et les jardins du Languedoc.",
+      "price": {
+        "free": false,
+        "range": { "min": 8, "max": 14 },
+        "currency": "EUR"
+      },
+      "location": "1725 Route de Mende, 34090 Montpellier, France",
+      "image": "https://example.com/chateau_mogere.jpg"
+    },
+    {
+      "name": "Excursion en VTT dans le Pic Saint-Loup",
+      "description": "Explorez la nature environnante avec une excursion en VTT dans la région montagneuse du Pic Saint-Loup.",
+      "price": {
+        "free": false,
+        "range": { "min": 25, "max": 50 },
+        "currency": "EUR"
+      },
+      "location": "Pic Saint-Loup, 34270",
+      "image": "https://example.com/vtt.jpg"
+    },
+    {
+      "name": "Soirée Karaoke au L'Atelier",
+      "description": "Chantez vos tubes préférés au bar Karaoke de L'Atelier, avec une ambiance conviviale.",
+      "price": {
+        "free": false,
+        "range": { "min": 10, "max": 20 },
+        "currency": "EUR"
+      },
+      "location": "L'Atelier, 34000 Montpellier",
+      "image": "https://example.com/karaoke.jpg"
+    },
+    {
+      "name": "Visite des Arènes de Nîmes",
+      "description": "Découvrez l'histoire de la gladiature et des combats romains en visitant les célèbres arènes de Nîmes.",
+      "price": {
+        "free": false,
+        "range": { "min": 10, "max": 12 },
+        "currency": "EUR"
+      },
+      "location": "Arènes de Nîmes, 30000 Nîmes, France",
+      "image": "https://example.com/arenes_nimes.jpg"
+    },
+    {
+      "name": "Dégustation de vins au Domaine des Masques",
+      "description": "Profitez d'une dégustation de vins fins au Domaine des Masques, un lieu enchanteur au cœur des vignes.",
+      "price": {
+        "free": false,
+        "range": { "min": 15, "max": 25 },
+        "currency": "EUR"
+      },
+      "location": "Domaine des Masques, 34320",
+      "image": "https://example.com/vins.jpg"
+    },
+    {
+      "name": "Bowling à Montpellier",
+      "description": "Passez une soirée fun entre amis au bowling, idéal pour une activité en famille ou en groupe.",
+      "price": {
+        "free": false,
+        "range": { "min": 8, "max": 15 },
+        "currency": "EUR"
+      },
+      "location": "Bowling de Montpellier, 34000",
+      "image": "https://example.com/bowling.jpg"
+    },
+    {
+      "name": "Paddle sur le Lez",
+      "description": "Profitez d'une activité sportive tranquille en faisant du paddle sur la rivière Lez.",
+      "price": {
+        "free": false,
+        "range": { "min": 20, "max": 30 },
+        "currency": "EUR"
+      },
+      "location": "Le Lez, 34000 Montpellier",
+      "image": "https://example.com/paddle.jpg"
+    },
+    {
+      "name": "Séance de Yoga en plein air",
+      "description": "Détendez-vous et recentrez-vous avec une séance de yoga dans l'un des parcs de Montpellier.",
+      "price": {
+        "free": true,
+        "range": { "min": 0, "max": 0 },
+        "currency": "EUR"
+      },
+      "location": "Parc Zoologique de Lunaret, 34000 Montpellier",
+      "image": "https://example.com/yoga.jpg"
+    },
+    {
+      "name": "Atelier de peinture au Musée Fabre",
+      "description": "Lancez-vous dans la peinture en participant à un atelier créatif au Musée Fabre, inspiré par les œuvres des grands maîtres.",
+      "price": {
+        "free": false,
+        "range": { "min": 20, "max": 30 },
+        "currency": "EUR"
+      },
+      "location": "39 Boulevard Bonne Nouvelle, 34000 Montpellier",
+      "image": "https://example.com/atelier_peinture.jpg"
+    }
+  ]
+  

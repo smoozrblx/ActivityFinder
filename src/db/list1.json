@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Visite de la Place de la Comédie", 
+    "description": "La Place de la Comédie est le cœur vibrant de Montpellier. Cette immense place piétonne est entourée de magnifiques bâtiments historiques comme l'Opéra Comédie et ornée de la fontaine des Trois Grâces. Vous pourrez y admirer des artistes de rue, profiter des terrasses de cafés, ou simplement flâner en admirant l'animation. Idéale pour découvrir l'âme de la ville.",
+    "price": {
+      "free": true,
+      "range": { "min": 0, "max": 0 },
+      "currency": "EUR"
+    },
+    "location": "Place de la Comédie, 34000 Montpellier, France",
+    "hours": [["Lundi", "00h00", "23h59"], ["Mardi", "00h00", "23h59"], ["Mercredi", "00h00", "23h59"], ["Jeudi", "00h00", "23h59"], ["Vendredi", "00h00", "23h59"], ["Samedi", "00h00", "23h59"], ["Dimanche", "00h00", "23h59"]]
+  },
+  {
+    "name": "Surf à Palavas-les-Flots", 
+    "description": "Située à quelques minutes de Montpellier, Palavas-les-Flots est une destination idéale pour les amateurs de surf. Les plages sont larges et les vagues sont parfaites pour les débutants comme pour les surfers confirmés. Vous pouvez louer du matériel sur place ou suivre des cours avec des moniteurs qualifiés. En plus du surf, vous pouvez profiter des cafés en bord de mer et des couchers de soleil magnifiques.",
+    "price": {
+      "free": false,
+      "range": { "min": 15, "max": 50 },
+      "currency": "EUR"
+    },
+    "location": "Plage de Palavas-les-Flots, 34250 Palavas-les-Flots, France",
+    "hours": [["Lundi", "9h00", "18h00"], ["Mardi", "9h00", "18h00"], ["Mercredi", "9h00", "18h00"], ["Jeudi", "9h00", "18h00"], ["Vendredi", "9h00", "18h00"], ["Samedi", "9h00", "19h00"], ["Dimanche", "9h00", "19h00"]]
+  },
+  {
+    "name": "Escape Game à Locked Time", 
+    "description": "Locked Time est l'un des meilleurs escape games de Montpellier. Plongez dans des scénarios immersifs comme 'Le Trésor des Templiers' ou 'Le Laboratoire Secret'. Idéal pour des groupes d'amis ou en famille, vous devrez résoudre des énigmes, décoder des indices et travailler en équipe pour échapper en moins de 60 minutes. Les décors sont très réalistes et l'accueil chaleureux rend l'expérience encore plus agréable.",
+    "price": {
+      "free": false,
+      "range": { "min": 20, "max": 35 },
+      "currency": "EUR"
+    },
+    "location": "12 Rue du Faubourg de la Saunerie, 34000 Montpellier, France",
+    "hours": [["Lundi", "14h00", "22h00"], ["Mardi", "14h00", "22h00"], ["Mercredi", "14h00", "22h00"], ["Jeudi", "14h00", "22h00"], ["Vendredi", "14h00", "23h00"], ["Samedi", "10h00", "23h00"], ["Dimanche", "10h00", "20h00"]]
+  },
+  {
+    "name": "Dégustation au Marché du Lez", 
+    "description": "Le Marché du Lez est un lieu incontournable pour les amateurs de gastronomie et de culture. Vous y trouverez une variété de stands proposant des produits locaux, des plats à emporter, et des restaurants pour tous les goûts. L'ambiance bohème et artistique est unique, avec des expositions d'art, des boutiques vintage et des ateliers. C'est un endroit parfait pour passer une journée agréable et savourer des plats locaux.",
+    "price": {
+      "free": true,
+      "range": { "min": 0, "max": 50 },
+      "currency": "EUR"
+    },
+    "location": "1348 Avenue Raymond Dugrand, 34000 Montpellier, France",
+    "hours": [["Lundi", "9h00", "19h00"], ["Mardi", "9h00", "19h00"], ["Mercredi", "9h00", "19h00"], ["Jeudi", "9h00", "19h00"], ["Vendredi", "9h00", "23h00"], ["Samedi", "9h00", "23h00"], ["Dimanche", "9h00", "18h00"]]
+  },
+  {
+    "name": "Balade à Vélo sur les Rives du Lez", 
+    "description": "Les rives du Lez offrent un cadre idyllique pour une balade à vélo. Vous pourrez découvrir Montpellier sous un autre angle en longeant le fleuve, avec des arrêts possibles dans des parcs verdoyants ou sur des terrasses ensoleillées. C'est une activité parfaite pour profiter du plein air, seul ou en famille. Des locations de vélos sont disponibles à plusieurs points de départ.",
+    "price": {
+      "free": false,
+      "range": { "min": 10, "max": 20 },
+      "currency": "EUR"
+    },
+    "location": "Rives du Lez, 34000 Montpellier, France",
+    "hours": [["Lundi", "8h00", "20h00"], ["Mardi", "8h00", "20h00"], ["Mercredi", "8h00", "20h00"], ["Jeudi", "8h00", "20h00"], ["Vendredi", "8h00", "20h00"], ["Samedi", "8h00", "20h00"], ["Dimanche", "8h00", "20h00"]]
+  },
+  {
+    "name": "Randonnée au Pic Saint-Loup", 
+    "description": "Le Pic Saint-Loup est un incontournable pour les amoureux de la nature. Situé à environ 20 km de Montpellier, ce sommet offre une vue panoramique à couper le souffle sur la région. Les sentiers de randonnée sont adaptés à tous les niveaux et traversent des paysages variés, entre vignes, garrigue et falaises. Une fois au sommet, vous pourrez admirer la vue tout en savourant un pique-nique bien mérité.",
+    "price": {
+      "free": true,
+      "range": { "min": 0, "max": 0 },
+      "currency": "EUR"
+    },
+    "location": "Pic Saint-Loup, 34270 Cazevieille, France",
+    "hours": [["Lundi", "6h00", "21h00"], ["Mardi", "6h00", "21h00"], ["Mercredi", "6h00", "21h00"], ["Jeudi", "6h00", "21h00"], ["Vendredi", "6h00", "21h00"], ["Samedi", "6h00", "21h00"], ["Dimanche", "6h00", "21h00"]]
+  }
+]

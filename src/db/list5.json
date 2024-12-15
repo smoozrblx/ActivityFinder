@@ -1,0 +1,255 @@
+[
+  {
+    "name": "Laser Game Montpellier",
+    "description": "Un jeu de tir immersif où les participants s'affrontent dans une arène plongée dans l'obscurité. Les joueurs sont équipés de pistolets laser et doivent marquer des points en touchant leurs adversaires tout en esquivant leurs tirs. L'arène est remplie d'obstacles et de zones stratégiques pour rendre le jeu plus excitant. Idéal pour les groupes, qu'il s'agisse d'un anniversaire, d'une sortie entre amis ou d'un événement d'entreprise. Les parties peuvent être jouées en équipes ou en mode solo, selon vos préférences.\n\nLes tarifs varient en fonction du nombre de joueurs et du temps de jeu. Une partie standard de 20 minutes coûte entre 10 et 15 EUR, mais des offres spéciales sont proposées pour des sessions plus longues ou pour les groupes de plus de 10 personnes. L'option de réserver des sessions privées ou des événements spéciaux est également disponible. Pour une expérience encore plus fun, des forfaits incluant des jeux multiples sont proposés à des prix avantageux.\n\nL'âge minimum pour participer est de 7 ans, ce qui en fait une activité idéale pour les familles. Des équipements de sécurité sont fournis pour garantir une expérience agréable et sans risque. Le lieu est équipé d'une salle d'attente avec des rafraîchissements disponibles, ainsi qu'un espace pour organiser des anniversaires ou des événements privés.",
+    "price": {
+      "free": false,
+      "range": { "min": 10, "max": 25 },
+      "currency": "EUR"
+    },
+    "location": "15 Rue des Artisans, 34000 Montpellier, France",
+    "hours": [
+      ["Lundi", "14h00", "22h00"],
+      ["Mardi", "14h00", "22h00"],
+      ["Mercredi", "14h00", "22h00"],
+      ["Jeudi", "14h00", "22h00"],
+      ["Vendredi", "14h00", "23h00"],
+      ["Samedi", "10h00", "23h00"],
+      ["Dimanche", "10h00", "22h00"]
+    ]
+  },
+  {
+    "name": "Le Dancehall Montpellier",
+    "description": "Venez découvrir le Dancehall à Montpellier, un lieu vibrant où la musique des Caraïbes prend vie à travers des soirées et événements. Chaque semaine, des DJ invités et des soirées à thème transforment cet endroit en un lieu incontournable pour tous les amateurs de musique reggae et dancehall. Vous pouvez y passer une soirée animée en dansant sur des rythmes endiablés, ou simplement profiter de l'ambiance unique du lieu.\n\nLes soirées Dancehall se déroulent le jeudi et le samedi soir, avec des prix d'entrée variant entre 5 et 15 EUR selon l'événement. Les boissons et cocktails sont disponibles sur place, à des prix raisonnables. Des tarifs réduits peuvent être appliqués pour les groupes, et des forfaits VIP sont aussi proposés pour les fêtes privées ou les événements spéciaux. Le club offre un accès exclusif aux DJ sets en réservant une table ou une bouteille de champagne.\n\nLe Dancehall est un endroit idéal pour une soirée entre amis ou pour célébrer un événement spécial, avec une grande piste de danse et un espace lounge confortable pour se détendre. Des cours de danse sont également organisés régulièrement pour ceux qui souhaitent apprendre les mouvements du Dancehall, allant des débutants aux danseurs plus avancés.",
+    "price": {
+      "free": false,
+      "range": { "min": 5, "max": 15 },
+      "currency": "EUR"
+    },
+    "location": "1 Rue de la République, 34000 Montpellier, France",
+    "hours": [
+      ["Lundi", "20h00", "03h00"],
+      ["Mardi", "20h00", "03h00"],
+      ["Mercredi", "20h00", "03h00"],
+      ["Jeudi", "20h00", "03h00"],
+      ["Vendredi", "20h00", "04h00"],
+      ["Samedi", "20h00", "04h00"],
+      ["Dimanche", "20h00", "03h00"]
+    ]
+  },
+  {
+    "name": "Bateau promenade sur le Lez",
+    "description": "Profitez d'une croisière paisible sur le Lez, un fleuve pittoresque traversant Montpellier, pour découvrir la ville sous un angle unique. À bord de petites embarcations confortables, vous naviguerez à travers les paysages naturels et les zones urbaines qui bordent le Lez. La promenade est idéale pour se détendre et profiter des vues imprenables sur les ponts et bâtiments historiques, avec des commentaires audio sur l'histoire et les curiosités locales.\n\nLes croisières durent environ 45 minutes à 1 heure et coûtent entre 15 et 25 EUR par personne. Des réductions sont disponibles pour les enfants et les groupes. Vous pouvez également réserver des croisières privées pour des événements spéciaux comme des anniversaires ou des fêtes, et les prix peuvent alors varier en fonction du nombre de participants et de la durée.\n\nLes bateaux sont accessibles aux personnes à mobilité réduite et des rafraîchissements sont disponibles à bord. Un service de transport depuis certains hôtels de Montpellier peut également être organisé pour les groupes. C’est une activité parfaite pour une sortie en famille, un rendez-vous romantique, ou simplement pour ceux qui veulent découvrir un autre aspect de la ville dans une atmosphère calme et agréable.",
+    "price": {
+      "free": false,
+      "range": { "min": 15, "max": 25 },
+      "currency": "EUR"
+    },
+    "location": "Port Marianne, 34000 Montpellier, France",
+    "hours": [
+      ["Lundi", "10h00", "18h00"],
+      ["Mardi", "10h00", "18h00"],
+      ["Mercredi", "10h00", "18h00"],
+      ["Jeudi", "10h00", "18h00"],
+      ["Vendredi", "10h00", "18h00"],
+      ["Samedi", "10h00", "18h00"],
+      ["Dimanche", "10h00", "18h00"]
+    ]
+  },
+  {
+    "name": "Restaurant Le Petit Jardin",
+    "description": "Le Petit Jardin est un restaurant charmant situé en plein centre-ville de Montpellier. Il offre une terrasse ombragée et intime, idéale pour profiter de la douceur du climat méditerranéen. Le menu propose une cuisine méditerranéenne raffinée, avec des plats typiques comme des poissons frais grillés, des risottos, des pâtes maison, et une sélection de viandes de qualité. Le restaurant met également un accent particulier sur l’utilisation de produits locaux et de saison pour garantir la fraîcheur de chaque plat.\n\nLes prix varient entre 25 et 45 EUR pour un repas complet, avec des options de menu à prix fixe disponibles pour les groupes ou les repas d'affaires. Le restaurant est également connu pour sa carte de vins exceptionnelle, mettant en avant des producteurs locaux du Languedoc et des vins étrangers sélectionnés avec soin. Des offres spéciales sont proposées pour les événements, comme des menus dégustation pour les occasions spéciales.\n\nLe restaurant dispose d'une capacité de 40 à 50 personnes, idéal pour les petits événements comme les anniversaires ou les repas d'affaires. Le service est professionnel et attentionné, avec un personnel qualifié pour vous aider à choisir les accords mets-vins parfaits. Le cadre, entre modernité et tradition, crée une atmosphère chaleureuse et agréable pour vos repas.",
+    "price": {
+      "free": false,
+      "range": { "min": 25, "max": 45 },
+      "currency": "EUR"
+    },
+    "location": "9 Rue des Étuves, 34000 Montpellier, France",
+    "hours": [
+      ["Lundi", "12h00", "14h30"],
+      ["Mardi", "12h00", "14h30"],
+      ["Mercredi", "12h00", "14h30"],
+      ["Jeudi", "12h00", "14h30"],
+      ["Vendredi", "12h00", "14h30"],
+      ["Samedi", "12h00", "14h30"],
+      ["Dimanche", "12h00", "14h30"]
+    ]
+  },
+    {
+      "name": "La Comédie du Livre",
+      "description": "Un événement littéraire annuel où des auteurs et des éditeurs se rassemblent pour présenter leurs ouvrages.",
+      "price": {
+        "free": true,
+        "range": { "min": null, "max": null },
+        "currency": null
+      },
+      "location": "Place de la Comédie, 34000 Montpellier, France",
+      "image": "https://example.com/comedie_livre.jpg"
+    },
+    {
+      "name": "Montpellier Zoo",
+      "description": "Un grand zoo où vous pouvez découvrir une variété d'animaux exotiques, avec des espaces verts pour pique-niquer.",
+      "price": {
+        "free": true,
+        "range": { "min": null, "max": null },
+        "currency": null
+      },
+      "location": "Route de la Foire, 34000 Montpellier, France",
+      "image": "https://example.com/zoo_montpellier.jpg"
+    },
+    {
+      "name": "L'Arbre Blanc",
+      "description": "Un restaurant offrant une vue spectaculaire sur la ville, situé dans un bâtiment architectural emblématique.",
+      "price": {
+        "free": false,
+        "range": { "min": 20, "max": 50 },
+        "currency": "EUR"
+      },
+      "location": "1 Place de la Méditerranée, 34000 Montpellier, France",
+      "image": "https://example.com/arbre_blanc.jpg"
+    },
+    {
+      "name": "Bowling des Pins",
+      "description": "Venez faire une partie de bowling dans cet espace moderne et dynamique, avec des options de restauration.",
+      "price": {
+        "free": false,
+        "range": { "min": 10, "max": 20 },
+        "currency": "EUR"
+      },
+      "location": "24 Boulevard de la Liberté, 34000 Montpellier, France",
+      "image": "https://example.com/bowling_pins.jpg"
+    },
+    {
+      "name": "Parc zoologique de Lunaret",
+      "description": "Un parc zoologique dédié à la conservation des espèces animales et des plantes rares.",
+      "price": {
+        "free": true,
+        "range": { "min": null, "max": null },
+        "currency": null
+      },
+      "location": "Route de Mende, 34000 Montpellier, France",
+      "image": "https://example.com/zoologique_lunaret.jpg"
+    },
+    {
+      "name": "Patinoire de Montpellier",
+      "description": "Une patinoire intérieure pour patiner en famille ou entre amis.",
+      "price": {
+        "free": false,
+        "range": { "min": 5, "max": 12 },
+        "currency": "EUR"
+      },
+      "location": "8 Rue François Dufay, 34000 Montpellier, France",
+      "image": "https://example.com/patinoire_montpellier.jpg"
+    },
+    {
+      "name": "Paddle sur le Lez",
+      "description": "Faites du paddle sur le Lez et découvrez Montpellier sous un autre angle.",
+      "price": {
+        "free": false,
+        "range": { "min": 10, "max": 25 },
+        "currency": "EUR"
+      },
+      "location": "Port Marianne, 34000 Montpellier, France",
+      "image": "https://example.com/paddle_lez.jpg"
+    },
+    {
+      "name": "Concert Jazz à La Maison de la Musique",
+      "description": "Des concerts de jazz tous les mois, avec des musiciens locaux et internationaux.",
+      "price": {
+        "free": false,
+        "range": { "min": 10, "max": 30 },
+        "currency": "EUR"
+      },
+      "location": "9 Rue du Grand Saint-Jean, 34000 Montpellier, France",
+      "image": "https://example.com/jazz_maison_musique.jpg"
+    },
+    {
+      "name": "Escape Game: The Time Machine",
+      "description": "Un escape game où vous voyagez dans le temps pour résoudre des énigmes et éviter un désastre.",
+      "price": {
+        "free": false,
+        "range": { "min": 20, "max": 40 },
+        "currency": "EUR"
+      },
+      "location": "17 Rue de la Loge, 34000 Montpellier, France",
+      "image": "https://example.com/time_machine_escape.jpg"
+    },
+    {
+      "name": "Les Nuits Carrées",
+      "description": "Un festival de musique en plein air chaque été, avec des concerts live et des DJ sets.",
+      "price": {
+        "free": false,
+        "range": { "min": 15, "max": 40 },
+        "currency": "EUR"
+      },
+      "location": "Plage des Aresquiers, 34000 Montpellier, France",
+      "image": "https://example.com/nuits_carrees.jpg"
+    },
+    {
+      "name": "Théâtre Comédie-Française",
+      "description": "Assistez à des pièces classiques et contemporaines dans ce théâtre historique.",
+      "price": {
+        "free": false,
+        "range": { "min": 12, "max": 45 },
+        "currency": "EUR"
+      },
+      "location": "Place de la Comédie, 34000 Montpellier, France",
+      "image": "https://example.com/theatre_comedie_francaise.jpg"
+    },
+    {
+      "name": "Le Sucre de Montpellier",
+      "description": "Venez découvrir cette chocolaterie artisanale et savourez des créations sucrées faites maison.",
+      "price": {
+        "free": false,
+        "range": { "min": 5, "max": 15 },
+        "currency": "EUR"
+      },
+      "location": "11 Rue des Boules, 34000 Montpellier, France",
+      "image": "https://example.com/sucre_montpellier.jpg"
+    },
+    {
+      "name": "Le Théâtre de l'Observatoire",
+      "description": "Un théâtre de poche où des pièces modernes et des créations originales sont jouées.",
+      "price": {
+        "free": false,
+        "range": { "min": 10, "max": 25 },
+        "currency": "EUR"
+      },
+      "location": "7 Rue de l'Observatoire, 34000 Montpellier, France",
+      "image": "https://example.com/theatre_observatoire.jpg"
+    },
+    {
+      "name": "Salles de jeux d'arcade Retro",
+      "description": "Revivez la nostalgie des années 80 avec une collection de jeux d'arcade rétro.",
+      "price": {
+        "free": false,
+        "range": { "min": 1, "max": 5 },
+        "currency": "EUR"
+      },
+      "location": "Place Jean Jaurès, 34000 Montpellier, France",
+      "image": "https://example.com/arcade_retro.jpg"
+    },
+    {
+      "name": "Le Musée Fabre",
+      "description": "Un musée d'art avec des expositions de peintures, sculptures et artefacts d'artistes célèbres.",
+      "price": {
+        "free": false,
+        "range": { "min": 8, "max": 15 },
+        "currency": "EUR"
+      },
+      "location": "13 Rue du Musée, 34000 Montpellier, France",
+      "image": "https://example.com/musee_fabre.jpg"
+    },
+    {
+      "name": "Le Petit Train de Montpellier",
+      "description": "Faites une visite guidée en petit train autour des principaux points d'intérêt de la ville.",
+      "price": {
+        "free": false,
+        "range": { "min": 5, "max": 10 },
+        "currency": "EUR"
+      },
+      "location": "Place de la Comédie, 34000 Montpellier, France",
+      "image": "https://example.com/petit_train_montpellier.jpg"
+    }
+  ]
+  

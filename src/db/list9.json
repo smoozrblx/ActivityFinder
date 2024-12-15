@@ -1,0 +1,263 @@
+[
+    {
+      "name": "Laser Game Montpellier",
+      "description": "Un jeu de tir où vous combattez dans des arènes obscures en utilisant des pistolets laser.",
+      "price": {
+        "free": false,
+        "range": { "min": 10, "max": 25 },
+        "currency": "EUR"
+      },
+      "location": "15 Rue des Artisans, 34000 Montpellier"
+    },
+    {
+      "name": "Le Dancehall Montpellier",
+      "description": "Venez découvrir l'univers du Dancehall avec des soirées à thèmes et des DJs invités.",
+      "price": {
+        "free": false,
+        "range": { "min": 5, "max": 15 },
+        "currency": "EUR"
+      },
+      "location": "1 Rue de la République, 34000 Montpellier"
+    },
+    {
+      "name": "Bateau promenade sur le Lez",
+      "description": "Offrez-vous une croisière relaxante sur le Lez, un fleuve qui traverse Montpellier.",
+      "price": {
+        "free": false,
+        "range": { "min": 15, "max": 25 },
+        "currency": "EUR"
+      },
+      "location": "Port Marianne, 34000 Montpellier"
+    },
+    {
+      "name": "Restaurant Le Petit Jardin",
+      "description": "Un restaurant charmant avec une jolie terrasse servant une cuisine méditerranéenne.",
+      "price": {
+        "free": false,
+        "range": { "min": 25, "max": 45 },
+        "currency": "EUR"
+      },
+      "location": "9 Rue des Étuves, 34000 Montpellier"
+    },
+    {
+      "name": "La Comédie du Livre",
+      "description": "Un événement littéraire annuel où des auteurs et des éditeurs se rassemblent pour présenter leurs ouvrages.",
+      "price": {
+        "free": true,
+        "range": { "min": 0, "max": 0 },
+        "currency": "EUR"
+      },
+      "location": "Place de la Comédie, 34000 Montpellier"
+    },
+    {
+      "name": "Montpellier Zoo",
+      "description": "Un grand zoo où vous pouvez découvrir une variété d'animaux exotiques.",
+      "price": {
+        "free": true,
+        "range": { "min": 0, "max": 0 },
+        "currency": "EUR"
+      },
+      "location": "Route de la Foire, 34000 Montpellier"
+    },
+    {
+      "name": "L'Arbre Blanc",
+      "description": "Un restaurant avec une vue spectaculaire sur la ville.",
+      "price": {
+        "free": false,
+        "range": { "min": 20, "max": 50 },
+        "currency": "EUR"
+      },
+      "location": "1 Place de la Méditerranée, 34000 Montpellier"
+    },
+    {
+      "name": "Bowling des Pins",
+      "description": "Un espace moderne pour jouer au bowling avec des options de restauration.",
+      "price": {
+        "free": false,
+        "range": { "min": 10, "max": 20 },
+        "currency": "EUR"
+      },
+      "location": "24 Boulevard de la Liberté, 34000 Montpellier"
+    },
+    {
+      "name": "Parc zoologique de Lunaret",
+      "description": "Un parc zoologique dédié à la conservation des espèces animales et des plantes rares.",
+      "price": {
+        "free": true,
+        "range": { "min": 0, "max": 0 },
+        "currency": "EUR"
+      },
+      "location": "Route de Mende, 34000 Montpellier"
+    },
+    {
+      "name": "Patinoire de Montpellier",
+      "description": "Une patinoire intérieure pour patiner en famille ou entre amis.",
+      "price": {
+        "free": false,
+        "range": { "min": 5, "max": 12 },
+        "currency": "EUR"
+      },
+      "location": "8 Rue François Dufay, 34000 Montpellier"
+    },
+    {
+      "name": "Paddle sur le Lez",
+      "description": "Faites du paddle sur le Lez et découvrez Montpellier sous un autre angle.",
+      "price": {
+        "free": false,
+        "range": { "min": 10, "max": 25 },
+        "currency": "EUR"
+      },
+      "location": "Port Marianne, 34000 Montpellier"
+    },
+    {
+      "name": "Concert Jazz à La Maison de la Musique",
+      "description": "Des concerts de jazz tous les mois avec des musiciens locaux et internationaux.",
+      "price": {
+        "free": false,
+        "range": { "min": 10, "max": 30 },
+        "currency": "EUR"
+      },
+      "location": "9 Rue du Grand Saint-Jean, 34000 Montpellier"
+    },
+    {
+      "name": "Escape Game: The Time Machine",
+      "description": "Un escape game où vous voyagez dans le temps pour résoudre des énigmes.",
+      "price": {
+        "free": false,
+        "range": { "min": 20, "max": 40 },
+        "currency": "EUR"
+      },
+      "location": "17 Rue de la Loge, 34000 Montpellier"
+    },
+    {
+      "name": "Les Nuits Carrées",
+      "description": "Un festival de musique en plein air chaque été, avec des concerts live et des DJ sets.",
+      "price": {
+        "free": false,
+        "range": { "min": 15, "max": 40 },
+        "currency": "EUR"
+      },
+      "location": "Plage des Aresquiers, 34000 Montpellier"
+    },
+    {
+      "name": "Théâtre Comédie-Française",
+      "description": "Assistez à des pièces classiques et contemporaines dans ce théâtre historique.",
+      "price": {
+        "free": false,
+        "range": { "min": 12, "max": 45 },
+        "currency": "EUR"
+      },
+      "location": "Place de la Comédie, 34000 Montpellier"
+    },
+    {
+      "name": "Le Sucre de Montpellier",
+      "description": "Venez découvrir cette chocolaterie artisanale et savourer des créations sucrées faites maison.",
+      "price": {
+        "free": false,
+        "range": { "min": 5, "max": 15 },
+        "currency": "EUR"
+      },
+      "location": "11 Rue des Boules, 34000 Montpellier"
+    },
+    {
+      "name": "Le Théâtre de l'Observatoire",
+      "description": "Un théâtre de poche où des pièces modernes et des créations originales sont jouées.",
+      "price": {
+        "free": false,
+        "range": { "min": 10, "max": 25 },
+        "currency": "EUR"
+      },
+      "location": "7 Rue de l'Observatoire, 34000 Montpellier"
+    },
+    {
+      "name": "Salles de jeux d'arcade Retro",
+      "description": "Revivez la nostalgie des années 80 avec une collection de jeux d'arcade rétro.",
+      "price": {
+        "free": false,
+        "range": { "min": 1, "max": 5 },
+        "currency": "EUR"
+      },
+      "location": "Place Jean Jaurès, 34000 Montpellier"
+    },
+    {
+      "name": "Le Musée Fabre",
+      "description": "Un musée d'art avec des expositions de peintures, sculptures et artefacts d'artistes célèbres.",
+      "price": {
+        "free": false,
+        "range": { "min": 8, "max": 15 },
+        "currency": "EUR"
+      },
+      "location": "13 Rue du Musée, 34000 Montpellier"
+    },
+    {
+      "name": "Le Petit Train de Montpellier",
+      "description": "Faites une visite guidée en petit train autour des principaux points d'intérêt de la ville.",
+      "price": {
+        "free": false,
+        "range": { "min": 5, "max": 10 },
+        "currency": "EUR"
+      },
+      "location": "Place de la Comédie, 34000 Montpellier"
+    },
+    {
+      "name": "Karaoke Bar Montpellier",
+      "description": "Chantez vos chansons préférées entre amis dans un bar karaoké convivial.",
+      "price": {
+        "free": false,
+        "range": { "min": 5, "max": 15 },
+        "currency": "EUR"
+      },
+      "location": "20 Rue du Moulin des Sept Tours, 34000 Montpellier"
+    },
+    {
+      "name": "Yoga en plein air",
+      "description": "Rejoignez un groupe de yoga en plein air pour une session relaxante au parc.",
+      "price": {
+        "free": false,
+        "range": { "min": 10, "max": 15 },
+        "currency": "EUR"
+      },
+      "location": "Parc Rimbaud, 34000 Montpellier"
+    },
+    {
+      "name": "Tennis Club Montpellier",
+      "description": "Réservez une partie de tennis dans un club local bien équipé.",
+      "price": {
+        "free": false,
+        "range": { "min": 15, "max": 25 },
+        "currency": "EUR"
+      },
+      "location": "15 Avenue du Docteur Pezet, 34000 Montpellier"
+    },
+    {
+      "name": "Beach Volleyball",
+      "description": "Pratiquez le beach-volley sur la plage avec des amis ou en équipe.",
+      "price": {
+        "free": false,
+        "range": { "min": 5, "max": 10 },
+        "currency": "EUR"
+      },
+      "location": "Plage de Palavas, 34000 Montpellier"
+    },
+    {
+      "name": "Surf School Montpellier",
+      "description": "Apprenez à surfer sur les vagues méditerranéennes avec des cours de surf.",
+      "price": {
+        "free": false,
+        "range": { "min": 20, "max": 50 },
+        "currency": "EUR"
+      },
+      "location": "Plage de La Grande Motte, 34000 Montpellier"
+    },
+    {
+      "name": "Football match at Stade de la Mosson",
+      "description": "Assistez à un match de football au célèbre Stade de la Mosson.",
+      "price": {
+        "free": false,
+        "range": { "min": 10, "max": 30 },
+        "currency": "EUR"
+      },
+      "location": "Stade de la Mosson, 34000 Montpellier"
+    }
+  ]
+  

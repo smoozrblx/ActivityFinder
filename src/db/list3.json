@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Session de Surf à La Grande-Motte",
+    "description": "La Grande-Motte, située à une vingtaine de minutes de Montpellier, offre un excellent spot pour les amateurs de surf. Que vous soyez débutant ou confirmé, vous pourrez profiter des vagues grâce à des écoles de surf locales qui proposent des cours adaptés à tous les niveaux. En plus de la pratique du surf, vous pourrez vous détendre sur les plages de sable fin et déguster des spécialités de fruits de mer dans les restaurants avoisinants. C'est une expérience complète combinant sport et plaisir.",
+    "price": {
+      "free": false,
+      "range": { "min": 25, "max": 60 },
+      "currency": "EUR"
+    },
+    "location": "Plage du Grand Travers, 34280 La Grande-Motte, France",
+    "hours": [["Lundi", "9h00", "18h30"], ["Mardi", "9h00", "18h30"], ["Mercredi", "9h00", "18h30"], ["Jeudi", "9h00", "18h30"], ["Vendredi", "9h00", "18h30"], ["Samedi", "9h00", "19h00"], ["Dimanche", "9h00", "19h00"]]
+  },
+  {
+    "name": "Soirée Karaoké au Meltdown Montpellier",
+    "description": "Le Meltdown Montpellier est un bar à thème incontournable pour les soirées karaoké. Avec une ambiance électrique et une sélection de chansons qui va des classiques français aux derniers hits internationaux, cet endroit est parfait pour libérer votre star intérieure. Les boissons y sont variées et abordables, avec des cocktails originaux et des snacks pour accompagner votre performance. C'est un lieu de rencontre convivial et animé, idéal pour les groupes d'amis ou pour faire de nouvelles rencontres.",
+    "price": {
+      "free": true,
+      "range": { "min": 0, "max": 15 },
+      "currency": "EUR"
+    },
+    "location": "1 Rue d'Alger, 34000 Montpellier, France",
+    "hours": [["Lundi", "18h00", "2h00"], ["Mardi", "18h00", "2h00"], ["Mercredi", "18h00", "2h00"], ["Jeudi", "18h00", "2h00"], ["Vendredi", "18h00", "2h00"], ["Samedi", "18h00", "2h00"], ["Dimanche", "18h00", "2h00"]]
+  },
+  {
+    "name": "Plongée Sous-Marine à Carnon",
+    "description": "Découvrez les fonds marins de la Méditerranée en vous lançant dans une aventure de plongée sous-marine à Carnon, une charmante station balnéaire à proximité de Montpellier. Des centres de plongée locaux vous équipent et vous accompagnent pour explorer des récifs, des grottes sous-marines et une vie marine exceptionnelle. Cette activité convient aux débutants grâce à des initiations en bassin, mais aussi aux plongeurs expérimentés avec des excursions en pleine mer.",
+    "price": {
+      "free": false,
+      "range": { "min": 40, "max": 120 },
+      "currency": "EUR"
+    },
+    "location": "Port de Carnon, 34280 Carnon-Plage, France",
+    "hours": [["Lundi", "8h00", "19h00"], ["Mardi", "8h00", "19h00"], ["Mercredi", "8h00", "19h00"], ["Jeudi", "8h00", "19h00"], ["Vendredi", "8h00", "19h00"], ["Samedi", "8h00", "20h00"], ["Dimanche", "8h00", "20h00"]]
+  },
+  {
+    "name": "Dégustation de Vins au Domaine de l'Arjolle",
+    "description": "Le Domaine de l'Arjolle est un lieu d'exception pour les amateurs de vin. Situé à 40 minutes de Montpellier, ce vignoble propose des visites guidées à travers ses vignes pittoresques et ses caves anciennes. Vous apprendrez les secrets de la vinification et aurez l'occasion de déguster une sélection de vins fins, accompagnés de produits locaux comme des fromages et des charcuteries artisanales. Une expérience sensorielle et éducative dans un cadre enchanteur.",
+    "price": {
+      "free": false,
+      "range": { "min": 15, "max": 50 },
+      "currency": "EUR"
+    },
+    "location": "Domaine de l'Arjolle, 34480 Pouzolles, France",
+    "hours": [["Lundi", "10h00", "18h00"], ["Mardi", "10h00", "18h00"], ["Mercredi", "10h00", "18h00"], ["Jeudi", "10h00", "18h00"], ["Vendredi", "10h00", "19h00"], ["Samedi", "10h00", "19h00"], ["Dimanche", "10h00", "17h00"]]
+  },
+  {
+    "name": "Partie de Basket au Parc Montcalm",
+    "description": "Le Parc Montcalm est un espace sportif et de loisirs très apprécié à Montpellier. Parmi ses nombreuses installations, le terrain de basket en extérieur est parfait pour une partie entre amis ou pour rejoindre un match improvisé. Avec un accès gratuit et une ambiance conviviale, c'est un excellent moyen de rester actif tout en socialisant. Le parc dispose également de zones ombragées pour se reposer après l'effort.",
+    "price": {
+      "free": true,
+      "range": { "min": 0, "max": 0 },
+      "currency": "EUR"
+    },
+    "location": "Parc Montcalm, 34070 Montpellier, France",
+    "hours": [["Lundi", "7h00", "21h00"], ["Mardi", "7h00", "21h00"], ["Mercredi", "7h00", "21h00"], ["Jeudi", "7h00", "21h00"], ["Vendredi", "7h00", "21h00"], ["Samedi", "7h00", "21h00"], ["Dimanche", "7h00", "21h00"]]
+  },
+  {
+    "name": "Concerts et Spectacles au Zénith Sud",
+    "description": "Le Zénith Sud est une salle de concert emblématique de Montpellier, accueillant des artistes de renommée nationale et internationale. De la musique pop au rock, en passant par le jazz et les comédies musicales, la programmation est riche et diversifiée. La salle offre une excellente acoustique et un cadre moderne qui garantit une expérience inoubliable. Vérifiez le calendrier des événements pour ne pas manquer vos artistes préférés.",
+    "price": {
+      "free": false,
+      "range": { "min": 25, "max": 100 },
+      "currency": "EUR"
+    },
+    "location": "Domaine Grammont, 34000 Montpellier, France",
+    "hours": [["Lundi", "10h00", "23h00"], ["Mardi", "10h00", "23h00"], ["Mercredi", "10h00", "23h00"], ["Jeudi", "10h00", "23h00"], ["Vendredi", "10h00", "23h00"], ["Samedi", "10h00", "23h00"], ["Dimanche", "10h00", "23h00"]]
+  }
+]

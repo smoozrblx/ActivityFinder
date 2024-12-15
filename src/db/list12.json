@@ -1,0 +1,212 @@
+[
+    {
+      "name": "Le Petit Jardin",
+      "description": "Un charmant restaurant avec une belle terrasse proposant une cuisine méditerranéenne.",
+      "price": {
+        "free": false,
+        "range": { "min": 20, "max": 50 },
+        "currency": "EUR"
+      },
+      "location": "9 Rue des Étuves, 34000 Montpellier",
+      "keywords": ["méditerranéenne", "terrasse", "restaurant"]
+    },
+    {
+      "name": "La Table d'Oc",
+      "description": "Un restaurant contemporain servant des plats locaux délicieux dans une ambiance cosy.",
+      "price": {
+        "free": false,
+        "range": { "min": 25, "max": 50 },
+        "currency": "EUR"
+      },
+      "location": "6 Rue de la Valfère, 34000 Montpellier",
+      "keywords": ["local", "contemporain", "cosy", "gastronomie"]
+    },
+    {
+      "name": "Le Jardin des Sens",
+      "description": "Un restaurant étoilé Michelin qui allie cuisine française haut de gamme et flair moderne.",
+      "price": {
+        "free": false,
+        "range": { "min": 40, "max": 100 },
+        "currency": "EUR"
+      },
+      "location": "11 Avenue St-Lazare, 34000 Montpellier",
+      "keywords": ["étoilé Michelin", "gastronomie", "haute cuisine"]
+    },
+    {
+      "name": "Le Bouche à Oreille",
+      "description": "Un bistro cosy offrant des plats français traditionnels dans un cadre décontracté.",
+      "price": {
+        "free": false,
+        "range": { "min": 15, "max": 30 },
+        "currency": "EUR"
+      },
+      "location": "3 Rue de la Loge, 34000 Montpellier",
+      "keywords": ["bistro", "traditionnel", "décontracté", "français"]
+    },
+    {
+      "name": "Les Bains de Montpellier",
+      "description": "Un restaurant moderne avec une belle vue sur la ville, servant une cuisine méditerranéenne.",
+      "price": {
+        "free": false,
+        "range": { "min": 20, "max": 40 },
+        "currency": "EUR"
+      },
+      "location": "9 Rue de l'Ancien Courrier, 34000 Montpellier",
+      "keywords": ["méditerranéenne", "vue", "moderne", "restaurant"]
+    },
+    {
+      "name": "Café de la Panacée",
+      "description": "Un café animé offrant des boissons, des encas légers et une super ambiance pour se détendre.",
+      "price": {
+        "free": false,
+        "range": { "min": 5, "max": 15 },
+        "currency": "EUR"
+      },
+      "location": "2 Place de la Panacée, 34000 Montpellier",
+      "keywords": ["café", "détente", "boissons", "légers"]
+    },
+    {
+      "name": "La Paillote Bambou",
+      "description": "Un restaurant en bord de mer offrant des fruits de mer et des cocktails tropicaux dans une ambiance décontractée.",
+      "price": {
+        "free": false,
+        "range": { "min": 15, "max": 40 },
+        "currency": "EUR"
+      },
+      "location": "Plage de Palavas, 34250 Palavas-les-Flots",
+      "keywords": ["fruits de mer", "cocktails", "bord de mer", "détente"]
+    },
+    {
+      "name": "Brasserie Les Caves",
+      "description": "Dégustez des plats de brasserie française avec une sélection de vins dans ce lieu chic de Montpellier.",
+      "price": {
+        "free": false,
+        "range": { "min": 18, "max": 35 },
+        "currency": "EUR"
+      },
+      "location": "11 Rue de la Glande, 34000 Montpellier",
+      "keywords": ["brasserie", "français", "vin", "chic"]
+    },
+    {
+      "name": "La Grande Bouffe",
+      "description": "Un restaurant rustique français connu pour ses plats copieux et son service amical.",
+      "price": {
+        "free": false,
+        "range": { "min": 12, "max": 28 },
+        "currency": "EUR"
+      },
+      "location": "2 Boulevard du Jeu de Paume, 34000 Montpellier",
+      "keywords": ["rustique", "copieux", "traditionnel", "français"]
+    },
+    {
+      "name": "Chez Boris",
+      "description": "Un restaurant familial servant des pizzas, des pâtes et d'autres spécialités italiennes.",
+      "price": {
+        "free": false,
+        "range": { "min": 12, "max": 20 },
+        "currency": "EUR"
+      },
+      "location": "20 Rue Saint-Guilhem, 34000 Montpellier",
+      "keywords": ["italien", "pizza", "pâtes", "familial"]
+    },
+    {
+      "name": "Le Pastis",
+      "description": "Un restaurant traditionnel français offrant des plats provençaux classiques.",
+      "price": {
+        "free": false,
+        "range": { "min": 18, "max": 40 },
+        "currency": "EUR"
+      },
+      "location": "7 Rue de l'Université, 34000 Montpellier",
+      "keywords": ["provençal", "traditionnel", "français", "classiques"]
+    },
+    {
+      "name": "La Pizza de Nico",
+      "description": "Un restaurant célèbre pour sa large variété de pizzas et de spécialités italiennes.",
+      "price": {
+        "free": false,
+        "range": { "min": 10, "max": 20 },
+        "currency": "EUR"
+      },
+      "location": "3 Rue du Faubourg, 34000 Montpellier",
+      "keywords": ["pizza", "italien", "spécialités", "familial"]
+    },
+    {
+      "name": "Café des Beaux-Arts",
+      "description": "Un café élégant avec terrasse, offrant un mélange de plats contemporains et traditionnels.",
+      "price": {
+        "free": false,
+        "range": { "min": 8, "max": 18 },
+        "currency": "EUR"
+      },
+      "location": "Place des Beaux-Arts, 34000 Montpellier",
+      "keywords": ["élégant", "terrasse", "contemporain", "traditionnel"]
+    },
+    {
+      "name": "Le Petit Comptoir",
+      "description": "Un restaurant branché proposant une fusion de cuisine française et méditerranéenne.",
+      "price": {
+        "free": false,
+        "range": { "min": 15, "max": 30 },
+        "currency": "EUR"
+      },
+      "location": "12 Rue de la Comédie, 34000 Montpellier",
+      "keywords": ["fusion", "méditerranéenne", "française", "branché"]
+    },
+    {
+      "name": "Le Dôme",
+      "description": "Une expérience gastronomique haut de gamme avec des plats raffinés et une sélection de vins.",
+      "price": {
+        "free": false,
+        "range": { "min": 40, "max": 90 },
+        "currency": "EUR"
+      },
+      "location": "Place de l'Opéra, 34000 Montpellier",
+      "keywords": ["haut de gamme", "gastronomie", "raffiné", "vins"]
+    },
+    {
+      "name": "La Pataterie",
+      "description": "Un restaurant cosy servant une variété de plats à base de pommes de terre et d'autres spécialités réconfortantes.",
+      "price": {
+        "free": false,
+        "range": { "min": 12, "max": 25 },
+        "currency": "EUR"
+      },
+      "location": "Route de Ganges, 34000 Montpellier",
+      "keywords": ["réconfortant", "pommes de terre", "cosy", "français"]
+    },
+    {
+      "name": "La Cantine du Faubourg",
+      "description": "Un bistro moderne servant des plats créatifs avec des ingrédients locaux frais.",
+      "price": {
+        "free": false,
+        "range": { "min": 15, "max": 30 },
+        "currency": "EUR"
+      },
+      "location": "5 Rue du Faubourg, 34000 Montpellier",
+      "keywords": ["moderne", "créatif", "local", "bistro"]
+    },
+    {
+      "name": "Café Le Zinc",
+      "description": "Un café intime offrant une sélection de cafés, thés, pâtisseries et repas légers.",
+      "price": {
+        "free": false,
+        "range": { "min": 5, "max": 15 },
+        "currency": "EUR"
+      },
+      "location": "1 Rue de la République, 34000 Montpellier",
+      "keywords": ["café", "intime", "pâtisseries", "léger"]
+    },
+    {
+      "name": "Le Train de la Gare",
+      "description": "Un café au thème ferroviaire offrant des sandwiches et des boissons dans une ambiance originale.",
+      "price": {
+        "free": false,
+        "range": { "min": 6, "max": 15 },
+        "currency": "EUR"
+      },
+      "location": "Gare de Montpellier, 34000 Montpellier",
+      "keywords": ["thème ferroviaire", "original", "sandwiches", "café"]
+    }
+  ]
+  

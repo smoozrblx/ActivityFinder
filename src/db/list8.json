@@ -1,0 +1,146 @@
+[
+    {
+      "name": "Randonnée dans les Cévennes",
+      "description": "Explorez les magnifiques paysages des Cévennes en partant pour une randonnée inoubliable à travers les montagnes et les forêts.",
+      "price": {
+        "free": true,
+        "range": { "min": 0, "max": 0 },
+        "currency": "EUR"
+      },
+      "location": "Parc National des Cévennes, 30450",
+      "image": "https://example.com/randonnee_cevennes.jpg"
+    },
+    {
+      "name": "Dégustation de fromages au Marché de Montpellier",
+      "description": "Régalez-vous avec une sélection de fromages régionaux au marché traditionnel de Montpellier, un lieu incontournable pour les amateurs de gastronomie.",
+      "price": {
+        "free": false,
+        "range": { "min": 10, "max": 15 },
+        "currency": "EUR"
+      },
+      "location": "Marché des Arceaux, 34000 Montpellier",
+      "image": "https://example.com/fromages.jpg"
+    },
+    {
+      "name": "Atelier de céramique",
+      "description": "Lancez-vous dans un atelier de céramique pour créer vos propres objets et découvrir les techniques artisanales.",
+      "price": {
+        "free": false,
+        "range": { "min": 30, "max": 50 },
+        "currency": "EUR"
+      },
+      "location": "Atelier de céramique, 34000 Montpellier",
+      "image": "https://example.com/ceramique.jpg"
+    },
+    {
+      "name": "Croisière sur le Canal du Midi",
+      "description": "Venez découvrir le Canal du Midi lors d'une croisière paisible et relaxante, un patrimoine mondial de l'UNESCO.",
+      "price": {
+        "free": false,
+        "range": { "min": 25, "max": 50 },
+        "currency": "EUR"
+      },
+      "location": "Port de l'Escalette, 34000 Montpellier",
+      "image": "https://example.com/croisiere_canal.jpg"
+    },
+    {
+      "name": "L'Opera de Montpellier",
+      "description": "Assistez à un opéra envoûtant dans le cadre majestueux de l'Opéra Comédie de Montpellier, un lieu incontournable pour les amateurs d'art.",
+      "price": {
+        "free": false,
+        "range": { "min": 15, "max": 80 },
+        "currency": "EUR"
+      },
+      "location": "Place de la Comédie, 34000 Montpellier",
+      "image": "https://example.com/opera_montpellier.jpg"
+    },
+    {
+      "name": "Promenade en vélo le long du Lez",
+      "description": "Profitez d'une agréable balade à vélo le long de la rivière Lez, dans un cadre naturel et apaisant.",
+      "price": {
+        "free": true,
+        "range": { "min": 0, "max": 0 },
+        "currency": "EUR"
+      },
+      "location": "Le Lez, 34000 Montpellier",
+      "image": "https://example.com/velo_lez.jpg"
+    },
+    {
+      "name": "Golf au Golf de Montpellier Massane",
+      "description": "Jouez une partie de golf dans un cadre verdoyant au Golf de Montpellier Massane, l'un des plus beaux parcours de la région.",
+      "price": {
+        "free": false,
+        "range": { "min": 35, "max": 70 },
+        "currency": "EUR"
+      },
+      "location": "Golf de Montpellier Massane, 34400",
+      "image": "https://example.com/golf_montpellier.jpg"
+    },
+    {
+      "name": "Visite des caves de la région Languedoc",
+      "description": "Découvrez les secrets de la vinification dans les nombreuses caves de la région Languedoc, avec une dégustation de vins locaux.",
+      "price": {
+        "free": false,
+        "range": { "min": 15, "max": 30 },
+        "currency": "EUR"
+      },
+      "location": "Vignobles autour de Montpellier, 34000",
+      "image": "https://example.com/caves_vins.jpg"
+    },
+    {
+      "name": "Escape Game au Défi du Château",
+      "description": "Résolvez des énigmes passionnantes en équipe dans l'un des meilleurs escape games de Montpellier, situé dans un château.",
+      "price": {
+        "free": false,
+        "range": { "min": 20, "max": 30 },
+        "currency": "EUR"
+      },
+      "location": "Château de Montpellier, 34000",
+      "image": "https://example.com/escape_game.jpg"
+    },
+    {
+      "name": "Baignade au Lac du Salagou",
+      "description": "Profitez d'une journée au bord de l'eau au Lac du Salagou, un lieu idyllique pour la baignade et les activités nautiques.",
+      "price": {
+        "free": true,
+        "range": { "min": 0, "max": 0 },
+        "currency": "EUR"
+      },
+      "location": "Lac du Salagou, 34800",
+      "image": "https://example.com/lac_salagou.jpg"
+    },
+    {
+      "name": "Cinéma au Cinéma Utopia",
+      "description": "Passez une soirée agréable en assistant à une projection dans l'un des cinémas les plus célèbres de Montpellier, le Cinéma Utopia.",
+      "price": {
+        "free": false,
+        "range": { "min": 8, "max": 12 },
+        "currency": "EUR"
+      },
+      "location": "5 Rue Raoul Follereau, 34000 Montpellier",
+      "image": "https://example.com/cinema_utopia.jpg"
+    },
+    {
+      "name": "Jardin d'Agropolis",
+      "description": "Explorez le jardin expérimental d'Agropolis, un lieu unique qui met en valeur l'agriculture durable et l'écosystème local.",
+      "price": {
+        "free": true,
+        "range": { "min": 0, "max": 0 },
+        "currency": "EUR"
+      },
+      "location": "Agropolis International, 34000 Montpellier",
+      "image": "https://example.com/jardin_agropolis.jpg"
+    },
+    {
+      "name": "Parc Zoologique de Lunaret",
+      "description": "Découvrez une grande variété d'animaux au Parc Zoologique de Lunaret, un espace naturel en pleine ville de Montpellier.",
+      "price": {
+        "free": true,
+        "range": { "min": 0, "max": 0 },
+        "currency": "EUR"
+      },
+      "location": "Parc Zoologique de Lunaret, 34000 Montpellier",
+      "image": "https://example.com/parc_zoo_lunaret.jpg"
+    }
+  ]
+  
